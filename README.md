@@ -1,4 +1,4 @@
-# flow.cr
+# flow.cr [![Build Status](https://travis-ci.org/maiha/flow.cr.svg?branch=master)](https://travis-ci.org/maiha/flow.cr)
 
 Queue based `Channel` friendly data flow library for [Crystal](http://crystal-lang.org/).
 
